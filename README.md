@@ -30,6 +30,12 @@ In order to facilitate exploiting the existing TTS models directly and developin
   - [【SpeedySpeech】SpeedySpeech: Efficient Neural Speech Synthesis](https://arxiv.org/abs/2008.03802)
   - [【Transformer TTS】Neural Speech Synthesis with Transformer Network](https://arxiv.org/abs/1809.08895)
   - [【Tacotron2】Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884)
+
+
+
+
+$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
 - Vocoders
   - [【Parallel WaveGAN】Parallel WaveGAN: A fast waveform generation model based on generative adversarial networks with multi-resolution spectrogram](https://arxiv.org/abs/1910.11480)
   - [【WaveFlow】WaveFlow: A Compact Flow-based Model for Raw Audio](https://arxiv.org/abs/1912.01219)
