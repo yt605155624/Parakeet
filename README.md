@@ -133,3 +133,7 @@ Check our [website](https://paddleparakeet.readthedocs.io/en/latest/demo.html) f
 ## License
 
 Parakeet is provided under the [Apache-2.0 license](LICENSE).
+
+
+$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
